@@ -5,6 +5,9 @@ Data:
 Acknowledgements
 https://github.com/Shenggan/BCCD_Dataset MIT License
 
+Link to my Kaggle Kernel:
+https://www.kaggle.com/vkochar/identify-blood-cell-subtypes-from-images-4fa0e1/notebook
+
 
 Abstract
 
