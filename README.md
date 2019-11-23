@@ -1,5 +1,6 @@
 # ENSC413_Deep_Learning_CNN
-
+Undergraduate Project on Deep Learning
+Image Classification using CNN
 
 Data:
 Acknowledgements
